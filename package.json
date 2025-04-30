@@ -1,0 +1,17 @@
+{
+  "name": "challenge-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "reto": "deno run --allow-all run.ts",
+    "links": "bash ./crear_symlinks_automaticos.sh",
+    "challenges": "deno run -A create_challenges.ts",
+    "list": "pnpm run reto --list",
+    "clear": "pnpm run reto --clean"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "typescript": "^5.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}

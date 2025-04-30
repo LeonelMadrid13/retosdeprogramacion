@@ -1,0 +1,18 @@
+# Node modules (if using any npm packages)
+node_modules/
+
+# Deno cache (optional)
+deno.lock
+.deno/
+
+# Reports folder
+reports/
+!reports/.gitkeep  # Keep the folder structure if needed
+
+# Logs and other temporary files
+*.log
+*.tsbuildinfo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
