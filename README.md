@@ -64,7 +64,7 @@ su nivel de dificultad y estado de completado.
 | 37  | LOS ANILLOS DE PODER                         |     ⚪️     |            |     |
 | 38  | LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"    |     ⚪️     |            |     |
 | 39  | BINARIO A DECIMAL                            |     ⚪️     |            |     |
-| 40  | TOP ALGORITMOS                               |     ⚪️     |            | 17  |
+| 40  | TOP ALGORITMOS                               |     ⚪️     |            |     |
 | 42  | LA LEY DE OHM                                |     ⚪️     |            |     |
 | 43  | CONVERSOR DE TEMPERATURA                     |     ⚪️     |            |     |
 | 44  | TRUCO O TRATO                                |     ⚪️     |            |     |
