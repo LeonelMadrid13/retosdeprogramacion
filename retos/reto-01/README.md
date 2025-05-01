@@ -1,6 +1,6 @@
 # Reto 01: EL FAMOSO "FIZZ BUZZ"
 
-**Dificultad:** Fácil
+### Dificultad: Fácil
 
 ## Enunciado
 
