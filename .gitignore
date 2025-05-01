@@ -16,3 +16,6 @@ reports/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# files
+generate_readme.ts

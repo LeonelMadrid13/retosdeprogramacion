@@ -1,5 +1,5 @@
 // MEDIUM
-// Reto 40: TOP ALGORITMOS | QUICK SORT
+// Reto 40: TOP ALGORITMOS -> QUICK SORT
 
 export function solve() {
   // TODO: implementar
