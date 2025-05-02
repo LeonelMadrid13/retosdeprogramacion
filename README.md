@@ -14,9 +14,9 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 02 | Challenge #2: ¿ES UN ANAGRAMA? | 🟠 | ✅ | [Show](./retos/reto-02) |
 | 03 | Challenge #3: LA SUCESIÓN DE FIBONACCI | 🔴 | ✅ | [Show](./retos/reto-03) |
 | 04 | Challenge #4: ¿ES UN NÚMERO PRIMO? | 🟠 | ✅ | [Show](./retos/reto-04) |
-| 05 | Challenge #5: ÁREA DE UN POLÍGONO | 🟢 |  | [Show](./retos/reto-05) |
-| 06 | Challenge #6: ASPECT RATIO DE UNA IMAGEN | 🔴 |  | [Show](./retos/reto-06) |
-| 07 | Challenge #7: INVIRTIENDO CADENAS | 🟢 |  | [Show](./retos/reto-07) |
+| 05 | Challenge #5: ÁREA DE UN POLÍGONO | 🟢 | ✅ | [Show](./retos/reto-05) |
+| 06 | Challenge #6: ASPECT RATIO DE UNA IMAGEN | 🔴 | ✅ | [Show](./retos/reto-06) |
+| 07 | Challenge #7: INVIRTIENDO CADENAS | 🟢 | ✅ | [Show](./retos/reto-07) |
 | 08 | Challenge #8: CONTANDO PALABRAS | 🟠 |  | [Show](./retos/reto-08) |
 | 09 | Challenge #9: DECIMAL A BINARIO | 🟢 |  | [Show](./retos/reto-09) |
 | 10 | Challenge #10: CÓDIGO MORSE | 🟠 |  | [Show](./retos/reto-10) |
@@ -114,7 +114,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 
 
 
-**Completados:** 4/101 retos
+**Completados:** 7/101 retos
 
 ## 📄 License
 
