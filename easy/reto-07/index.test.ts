@@ -4,8 +4,9 @@
         import { solve } from "./index.ts";
 
         describe("Reto 07: INVIRTIENDO CADENAS", () => {
-          it(" ", () => {
-            const output = solve(9);
-            expect(output[2]).toBe("Fizz");
+          it("palabras y numeros", () => {
+            expect(solve("Hola mundo")).toEqual("odnum aloH");
+            expect(solve("key")).toEqual("yek");
+            expect(solve("1234567890")).toEqual("0987654321");
           });
         })

@@ -1,12 +1,13 @@
 // EASY
 // Reto 07: INVIRTIENDO CADENAS
 
-export function solve() {
+export function solve(str:string):string {
   // TODO: implementar
+  return str.split("").reverse().join("");
 }
 
 if (import.meta.main) {
-  solve();
+  console.log(solve("Hola mundo"));
 }
 
 /*
