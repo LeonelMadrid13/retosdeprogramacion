@@ -1,8 +1,9 @@
 // EASY
 // Reto 82: EL CARÁCTER INFILTRADO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  * - Me llamo mouredev / Me llemo mouredov -> ["e", "o"]
  * - Me llamo.Brais Moure / Me llamo brais moure -> [" ", "b", "m"]
  */
-

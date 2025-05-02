@@ -1,8 +1,9 @@
 // EASY
 // Reto 50: EL DETECTOR DE HANDLES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - Handle web: Los que comienzan por "www.", "http://", "https://"
  *   y finalizan con un dominio (.com, .es...)
  */
-

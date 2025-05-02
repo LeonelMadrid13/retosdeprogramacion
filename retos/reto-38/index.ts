@@ -1,8 +1,9 @@
 // MEDIUM
-// Reto 38: LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"
+// Reto 38: LOS LANZAMIENTOS DE 'THE LEGEND OF ZELDA'
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  * - Debes buscar cada uno de los títulos y su día de lanzamiento 
  *   (si no encuentras el día exacto puedes usar el mes, o incluso inventártelo)
  */
-

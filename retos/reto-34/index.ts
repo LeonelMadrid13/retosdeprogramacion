@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 34: CICLO SEXAGENARIO CHINO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -20,4 +21,3 @@ if (import.meta.main) {
  * - Cada elemento se repite dos años seguidos.
  * - El último ciclo sexagenario comenzó en 1984 (Madera Rata).
  */
-

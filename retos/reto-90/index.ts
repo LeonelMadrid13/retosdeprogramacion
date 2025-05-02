@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 90: COLORES HEX Y RGB
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  * RGB a HEX: r: 0, g: 0, b: 0 -> #000000
  * HEX a RGB: hex: #000000 -> (r: 0, g: 0, b: 0)
  */
-

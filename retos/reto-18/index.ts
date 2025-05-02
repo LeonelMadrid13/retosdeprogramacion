@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 18: LA CARRERA DE OBSTÁCULOS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -25,4 +26,3 @@ if (import.meta.main) {
  * - La función retornará un Boolean que indique si ha superado la carrera.
  * Para ello tiene que realizar la opción correcta en cada tramo de la pista.
  */
-

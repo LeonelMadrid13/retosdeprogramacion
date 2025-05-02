@@ -1,8 +1,9 @@
 // HARD
 // Reto 16: ¿CUÁNTOS DÍAS?
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - Si una de las dos cadenas de texto no representa una fecha correcta se
  *   lanzará una excepción.
  */
-

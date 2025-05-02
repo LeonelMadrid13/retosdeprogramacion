@@ -1,8 +1,9 @@
 // EASY
 // Reto 49: EL CALENDARIO DE ADEVIENTO 2022
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -27,4 +28,3 @@ if (import.meta.main) {
  * - Debemos trabajar con fechas que tengan año, mes, día, horas, minutos
  *   y segundos.
  */
-

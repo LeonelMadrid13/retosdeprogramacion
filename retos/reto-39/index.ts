@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 39: BINARIO A DECIMAL
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * a decimal sin utilizar funciones propias del lenguaje que
  * lo hagan directamente.
  */
-

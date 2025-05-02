@@ -1,8 +1,9 @@
 // EASY
 // Reto 58: ¡HOLA MUNDO!
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  *
  * A ver quién se atreve con uno de esos lenguajes que no solemos ver por ahí...
  */
-

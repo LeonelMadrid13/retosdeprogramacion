@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 26: PIEDRA, PAPEL, TIJERA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  *   o "S" (tijera).
  * - Ejemplo. Entrada: [("R","S"), ("S","R"), ("P","S")]. Resultado: "Player 2".
  */
-

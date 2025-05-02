@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 56: EL GENERADOR DE CONTRASEÑAS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - Con o sin símbolos.
  * (Pudiendo combinar todos estos parámetros entre ellos)
  */
-

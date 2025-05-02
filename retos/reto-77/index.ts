@@ -1,8 +1,9 @@
 // EASY
 // Reto 77: CIFRADO CÉSAR
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  * Te recomiendo que busques información para conocer en profundidad cómo
  * realizar el cifrado. Esto también forma parte del reto.
  */
-

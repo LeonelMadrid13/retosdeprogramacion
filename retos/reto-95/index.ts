@@ -1,8 +1,9 @@
 // HARD
 // Reto 95: PUNTO DE ENCUENTRO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  *   tardarn en lograrlo.
  * - La función debe tener en cuenta que los objetos pueden no llegar a encontrarse.
  */
-

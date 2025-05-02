@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 44: TRUCO O TRATO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -32,4 +33,3 @@ if (import.meta.main) {
  * - Dulces: 🍰 🍬 🍡 🍭 🍪 🍫 🧁 🍩
  * - En caso contrario retornará un error.
  */
-

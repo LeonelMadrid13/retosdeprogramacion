@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 91: LAS SUMAS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -21,4 +22,3 @@ if (import.meta.main) {
  *   Soluciones: [1, 5] y [1, 3, 2] (ambas combinaciones suman 6)
  *   (Si no existen combinaciones, retornar una lista vacía)
  */
-

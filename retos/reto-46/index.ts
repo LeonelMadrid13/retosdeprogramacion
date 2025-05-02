@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 46: CONTENEDOR DE AGUA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -27,4 +28,3 @@ if (import.meta.main) {
  *   de agua. Suponemos que existe un suelo impermeable en la parte inferior
  *   que retiene el agua.
  */
-

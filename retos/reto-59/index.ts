@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 59: PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  * - Ejemplo. Entrada: [("🗿","✂️"), ("✂️","🗿"), ("📄","✂️")]. Resultado: "Player 2".
  * - Debes buscar información sobre cómo se juega con estas 5 posibilidades.
  */
-

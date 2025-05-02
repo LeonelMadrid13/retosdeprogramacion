@@ -1,8 +1,9 @@
 // EASY
 // Reto 64: PARÁMETROS URL
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  * Ejemplo: En la url https://retosdeprogramacion.com?year=2023&challenge=0
  * los parámetros serían ["2023", "0"]
  */
-

@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 60: EL SOMBRERO SELECCIONADOR
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -21,4 +22,3 @@ if (import.meta.main) {
  *   y crear el algoritmo seleccionador:
  *   Por ejemplo, en Slytherin se premia la ambición y la astucia.
  */
-

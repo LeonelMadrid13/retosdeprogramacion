@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 87: TXT
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  * - Si se selecciona continuar escribiendo, se tiene que mostrar por consola
  *   el texto que ya posee el fichero. 
  */
-

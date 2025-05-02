@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 21: PARANDO EL TIEMPO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  *   asíncrona, es decir, sin detener la ejecución del programa principal.
  *   Se podría ejecutar varias veces al mismo tiempo.
  */
-

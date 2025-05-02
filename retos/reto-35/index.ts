@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 35: LOS NÚMEROS PERDIDOS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -15,4 +16,3 @@ if (import.meta.main) {
  * el mayor y el menor.
  * - Lanza un error si el array de entrada no es correcto.
  */
-

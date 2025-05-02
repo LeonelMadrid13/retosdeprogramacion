@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 11: EXPRESIONES EQUILIBRADAS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  * - Expresión balanceada: { [ a * ( c + d ) ] - 5 }
  * - Expresión no balanceada: { a * ( c + d ) ] - 5 }
  */
-

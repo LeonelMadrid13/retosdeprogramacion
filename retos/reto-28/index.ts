@@ -1,8 +1,9 @@
 // EASY
 // Reto 28: VECTORES ORTOGONALES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * - Los dos array deben tener la misma longitud.
  * - Cada vector se podría representar como un array. Ejemplo: [1, -2]
  */
-

@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 10: CÓDIGO MORSE
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  * - El alfabeto morse soportado será el mostrado en
  *   https://es.wikipedia.org/wiki/Código_morse.
  */
-

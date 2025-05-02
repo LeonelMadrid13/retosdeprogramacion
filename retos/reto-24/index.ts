@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 24: MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -15,4 +16,3 @@ if (import.meta.main) {
  * - No se pueden utilizar operaciones del lenguaje que
  *   lo resuelvan directamente.
  */
-

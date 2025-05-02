@@ -1,8 +1,9 @@
 // EASY
 // Reto 42: LA LEY DE OHM
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * - Si los parámetros son incorrectos o insuficientes, la función retornará
  *   la cadena de texto "Invalid values".
  */
-

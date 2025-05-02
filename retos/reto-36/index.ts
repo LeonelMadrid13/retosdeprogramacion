@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 36: BATALLA POKÉMON
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  *  - Ataque: Entre 1 y 100.
  *  - Defensa: Entre 1 y 100.
  */
-

@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 63: LA API (APPLICATION PROGRAMMING INTERFACE)
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * Aquí tienes un listado de posibles APIs:
  * https://github.com/public-apis/public-apis
  */
-

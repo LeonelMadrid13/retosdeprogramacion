@@ -1,8 +1,9 @@
 // EASY
-// Reto 54: EL "LENGUAJE HACKER"
+// Reto 54: EL 'LENGUAJE HACKER'
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  *   con el alfabeto y los números en "leet".
  *   (Usa la primera opción de cada transformación. Por ejemplo "4" para la "a")
  */
-

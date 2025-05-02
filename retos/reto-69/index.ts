@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 69: LA ESCALERA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -23,4 +24,3 @@ if (import.meta.main) {
  * _|
  *
  */
-

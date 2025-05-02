@@ -1,8 +1,9 @@
 // HARD
 // Reto 101: EL RANKING
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -24,4 +25,3 @@ if (import.meta.main) {
  * Muchísimas gracias por ayudar a crear este gran recurso
  * para la comunidad... ¡Prepárate para 2024!
  */
-

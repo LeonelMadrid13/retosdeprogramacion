@@ -1,8 +1,9 @@
 // EASY
 // Reto 25: ITERATION MASTER
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * ¿De cuántas maneras eres capaz de hacerlo?
  * Crea el código para cada una de ellas.
  */
-

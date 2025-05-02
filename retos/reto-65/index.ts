@@ -1,8 +1,9 @@
 // EASY
 // Reto 65: VIERNES 13
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * en el mes y el año indicados.
  * - La función recibirá el mes y el año y retornará verdadero o falso.
  */
-

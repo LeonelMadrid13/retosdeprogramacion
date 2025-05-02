@@ -58,8 +58,9 @@ function createChallengeFiles(challenge: Challenge) {
     const tsContent = `// ${difficultyEN}
 // Reto ${number}: ${title}
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -75,9 +76,8 @@ import { expect } from "jsr:@std/expect";
 import { solve } from "./index.ts";
 
 describe("Reto ${number}: ${title}", () => {
-  it(" ", () => {
-    const output = solve(9);
-    expect(output[2]).toBe("Fizz");
+  it(" ", () => {;
+    expect(solve()).toBe(0);
   });
 });
 `;

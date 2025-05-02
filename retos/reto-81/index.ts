@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 81: EXPRESIÓN MATEMÁTICA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  * "5 + 6 / 7 - 4" -> true
  * "5 a 6" -> false
  */
-

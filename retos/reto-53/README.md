@@ -1,4 +1,4 @@
-# Reto 53: EL FAMOSO "FIZZ BUZZ" (v2)
+# Reto 53: EL FAMOSO 'FIZZ BUZZ' (v2)
 
 **Dificultad:** Fácil
 

@@ -1,4 +1,4 @@
-# Reto 54: EL "LENGUAJE HACKER"
+# Reto 54: EL 'LENGUAJE HACKER'
 
 **Dificultad:** Fácil
 

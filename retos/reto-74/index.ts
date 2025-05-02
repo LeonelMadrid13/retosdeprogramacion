@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 74: NÚMEROS PRIMOS GEMELOS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -20,4 +21,3 @@ if (import.meta.main) {
  * - Ejemplo: Rango 14
  *   (3, 5), (5, 7), (11, 13)
  */
-

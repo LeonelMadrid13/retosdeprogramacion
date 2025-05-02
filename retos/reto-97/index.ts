@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 97: ADIVINANZAS MATEMÁTICAS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -24,4 +25,3 @@ if (import.meta.main) {
  *   - Preguntas 16 a 20: XXX (entre 0 y 999) operación YY
  *   ..
  */
-

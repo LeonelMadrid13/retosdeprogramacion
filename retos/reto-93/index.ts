@@ -1,8 +1,9 @@
 // EASY
 // Reto 93: TABLA DE MULTIPLICAR
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  *       1 x 3 = 3
  *       ...
  */
-

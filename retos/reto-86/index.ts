@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 86: TETRIS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -32,4 +33,3 @@ if (import.meta.main) {
  * - Las acciones que se pueden aplicar a la pieza son: derecha, izquierda, abajo, rotar.
  * - Debes tener en cuenta los límites de la pantalla de juego.
  */
-

@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 13: ¿ES UN PALÍNDROMO?
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * NO se tienen en cuenta los espacios, signos de puntuación y tildes.
  * Ejemplo: Ana lleva al oso la avellana.
  */
-

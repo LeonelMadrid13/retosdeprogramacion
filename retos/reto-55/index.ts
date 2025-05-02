@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 55: EL PARTIDO DE TENIS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -27,4 +28,3 @@ if (import.meta.main) {
  * - Si quieres, puedes controlar errores en la entrada de datos.
  * - Consulta las reglas del juego si tienes dudas sobre el sistema de puntos.
  */
-

@@ -1,8 +1,9 @@
 // HARD
 // Reto 70: GIT Y GITHUB
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -29,4 +30,3 @@ if (import.meta.main) {
  *
  * Se permite utilizar librerías que nos faciliten esta tarea.
  */
-

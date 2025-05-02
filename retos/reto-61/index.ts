@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 61: EL GENERADOR PSEUDOALEATORIO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  *
  * Es más complicado de lo que parece...
  */
-

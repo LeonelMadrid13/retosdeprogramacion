@@ -1,8 +1,9 @@
 // EASY
 // Reto 30: ORDENA LA LISTA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * - No se pueden utilizar funciones propias del lenguaje que lo resuelvan
  *   automáticamente.
  */
-

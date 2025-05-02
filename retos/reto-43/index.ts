@@ -1,8 +1,9 @@
 // EASY
 // Reto 43: CONVERSOR DE TEMPERATURA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  *   y su unidad ("C" o "F").
  * - En caso contrario retornará un error.
  */
-

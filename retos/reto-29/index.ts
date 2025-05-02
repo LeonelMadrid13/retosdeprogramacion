@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 29: MÁQUINA EXPENDEDORA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  *   de 5, 10, 50, 100 y 200.
  * - Debemos controlar que las monedas enviadas estén dentro de las soportadas.
  */
-

@@ -1,8 +1,9 @@
 // EASY
 // Reto 15: ¿ES UN NÚMERO DE ARMSTRONG?
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -15,4 +16,3 @@ if (import.meta.main) {
  * Si no conoces qué es un número de Armstrong, debes buscar información
  * al respecto.
  */
-

@@ -1,8 +1,9 @@
 // EASY
-// Reto 53: EL FAMOSO "FIZZ BUZZ" (v2)
+// Reto 53: EL FAMOSO 'FIZZ BUZZ' (v2)
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * - Múltiplos de 5 por la palabra "buzz".
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
-

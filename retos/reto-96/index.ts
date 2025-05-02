@@ -1,8 +1,9 @@
 // EASY
 // Reto 96: SIMULADOR DE CLIMA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -24,4 +25,3 @@ if (import.meta.main) {
  *   y si llueve durante todos esos días.
  * - También mostrará la temperatura máxima y mínima de ese periodo y cuántos días va a llover.
  */
-

@@ -1,8 +1,9 @@
 // EASY
 // Reto 45: BUMERANES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - En el array [2, 1, 2, 3, 3, 4, 2, 4] hay 2 bumeranes ([2, 1, 2]
  *   y [4, 2, 4]).
  */
-

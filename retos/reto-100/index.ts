@@ -1,8 +1,9 @@
 // EASY
 // Reto 100: LA PALABRA DE 100 PUNTOS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -22,4 +23,3 @@ if (import.meta.main) {
  * - Puedes usar la terminal para interactuar con el usuario y solicitarle
  *   cada palabra.
  */
-

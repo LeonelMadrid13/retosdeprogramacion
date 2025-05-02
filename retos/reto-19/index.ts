@@ -1,8 +1,9 @@
 // HARD
 // Reto 19: TRES EN RAYA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -20,4 +21,3 @@ if (import.meta.main) {
  * Nota: La matriz puede no estar totalmente cubierta.
  * Se podría representar con un vacío "", por ejemplo.
  */
-

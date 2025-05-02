@@ -1,8 +1,9 @@
 // EASY
 // Reto 27: CUADRADO Y TRIÁNGULO 2D
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * - Indicaremos el tamaño del lado y si la figura a dibujar es una u otra.
  * - EXTRA: ¿Eres capaz de dibujar más figuras?
  */
-

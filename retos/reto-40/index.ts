@@ -1,8 +1,9 @@
 // MEDIUM
-// Reto 40: TOP ALGORITMOS -> QUICK SORT
+// Reto 40: TOP ALGORITMOS | QUICK SORT
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - Esta es una nueva serie de retos llamada "TOP ALGORITMOS",
  *   donde trabajaremos y entenderemos los más famosos de la historia.
  */
-

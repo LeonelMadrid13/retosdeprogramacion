@@ -1,8 +1,9 @@
 // EASY
 // Reto 98: EL CALENDARIO DE ADEVIENTO 2023
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -27,4 +28,3 @@ if (import.meta.main) {
  *   y se eliminará del listado.
  * - Si seleccionas salir, el programa finalizará.
  */
-

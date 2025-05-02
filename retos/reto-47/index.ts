@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 47: ¿DÓNDE ESTÁ EL ROBOT?
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -26,4 +27,3 @@ if (import.meta.main) {
  *   secuencia de pasos gira 90 grados en el sentido contrario a las agujas
  *   del reloj.
  */
-

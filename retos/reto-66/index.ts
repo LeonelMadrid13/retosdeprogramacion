@@ -1,8 +1,9 @@
 // EASY
 // Reto 66: ADIVINA LA PALABRA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -24,4 +25,3 @@ if (import.meta.main) {
  *   ocultando más del 60%
  * - Puedes utilizar las palabras que quieras y el número de intentos que consideres
  */
-

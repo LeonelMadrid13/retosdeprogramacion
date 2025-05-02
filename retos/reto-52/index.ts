@@ -1,8 +1,9 @@
 // EASY
 // Reto 52: EL RETO RANDOM
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  * - Si quieres también puedes proponer tu propia solución al reto
  *   (en el lenguaje que quieras).
  */
-

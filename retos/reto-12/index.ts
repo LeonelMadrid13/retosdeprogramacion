@@ -1,8 +1,9 @@
 // EASY
 // Reto 12: ELIMINANDO CARACTERES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * - out2 contendrá todos los caracteres presentes en la str2 pero NO
  *   estén presentes en str1.
  */
-

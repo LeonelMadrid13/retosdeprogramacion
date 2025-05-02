@@ -1,8 +1,9 @@
 // EASY
 // Reto 51: LA ENCRIPTACIÓN DE KARACA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -14,4 +15,3 @@ if (import.meta.main) {
  * utilizando el algoritmo de encriptación de Karaca
  * (debes buscar información sobre él).
  */
-

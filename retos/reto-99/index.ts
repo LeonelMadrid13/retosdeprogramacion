@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 99: LA CARRERA DE COCHES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -28,4 +29,3 @@ if (import.meta.main) {
  *   - Cada turno se imprimen las pistas y sus elementos.
  *   - Cuando la carrera finalice, se muestra el coche ganador o el empate.
  */
-

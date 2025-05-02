@@ -1,8 +1,9 @@
 // HARD
 // Reto 94: LA CASA ENCANTADA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -34,4 +35,3 @@ if (import.meta.main) {
  * - 👻 (Bonus) Fantasmas: Existe un 10% de que en una habitación aparezca un fantasma y
  *   tengas que responder dos preguntas para salir de ella.
  */
-

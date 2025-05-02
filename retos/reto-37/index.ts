@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 37: LOS ANILLOS DE PODER
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -29,4 +30,3 @@ if (import.meta.main) {
  *     2 Pelosos empatan contra 1 Orco
  *     3 Pelosos ganan a 1 Orco
  */
-

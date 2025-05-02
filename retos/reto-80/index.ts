@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 80: CUENTA ATRÁS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -17,4 +18,3 @@ if (import.meta.main) {
  * - El programa finaliza al llegar a cero.
  * - Debes imprimir cada número de la cuenta atrás.
  */
-

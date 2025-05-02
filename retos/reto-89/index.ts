@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 89: PERMUTACIONES
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -16,4 +17,3 @@ if (import.meta.main) {
  * - Deben usarse todas las letras en cada permutación.
  * - Ejemplo: sol, slo, ols, osl, los, lso
  */
-

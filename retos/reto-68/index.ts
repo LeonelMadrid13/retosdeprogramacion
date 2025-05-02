@@ -1,8 +1,9 @@
 // EASY
 // Reto 68: AUREBESH
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -19,4 +20,3 @@ if (import.meta.main) {
  *
  * ¡Que la fuerza os acompañe!
  */
-

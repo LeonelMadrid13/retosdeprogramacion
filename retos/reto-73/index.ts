@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 73: LA TRIFUERZA
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -24,4 +25,3 @@ if (import.meta.main) {
  *  *   *
  * *** ***
  */
-

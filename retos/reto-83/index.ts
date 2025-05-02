@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 83: EL TECLADO T9
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -23,4 +24,3 @@ if (import.meta.main) {
  *     Entrada: 6-666-88-777-33-3-33-888
  *     Salida: MOUREDEV
  */
-

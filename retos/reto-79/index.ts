@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 79: TESTING
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -18,4 +19,3 @@ if (import.meta.main) {
  * - Los tres test deben de funcionar y comprobar
  *   diferentes situaciones (a tu elección).
  */
-

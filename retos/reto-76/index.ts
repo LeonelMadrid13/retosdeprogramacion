@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 76: LA BASE DE DATOS
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -23,4 +24,3 @@ if (import.meta.main) {
  *
  * Se pueden usar librerías para realizar la lógica de conexión a la base de datos.
  */
-

@@ -1,8 +1,9 @@
 // MEDIUM
 // Reto 85: LA COLUMNA DE EXCEL
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -15,4 +16,3 @@ if (import.meta.main) {
  * - Las columnas se designan por letras de la "A" a la "Z" de forma infinita.
  * - Ejemplos: A = 1, Z = 26, AA = 27, CA = 79.
  */
-

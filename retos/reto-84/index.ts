@@ -1,8 +1,9 @@
 // EASY
 // Reto 84: EL ÁBACO
 
-export function solve() {
+export function solve(): number {
   // TODO: implementar
+  return 0;
 }
 
 if (import.meta.main) {
@@ -29,4 +30,3 @@ if (import.meta.main) {
  *
  *  Resultado: 1.302.790
  */
-
