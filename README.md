@@ -1,6 +1,6 @@
 # Retos de Programación 🚀
 
-Repositorio de desafíos de programación inspirados en plataformas como AdventJS, desarrollado para mejorar habilidades en JavaScript/TypeScript.
+Repositorio de desafíos de programación de la pagina [retos de programacion](https://retosdeprogramacion.com/ejercicios/), desarrollado para mejorar habilidades en programacion por MoureDev.
 
 ## 📊 Summary
 
