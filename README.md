@@ -112,8 +112,6 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 100 | Challenge #100: LA PALABRA DE 100 PUNTOS | 🟢 |  | [Show](./retos/reto-100) |
 | 101 | Challenge #101: EL RANKING | 🔴 |  | [Show](./retos/reto-101) |
 
-
-
 **Completados:** 9/101 retos
 
 ## 📄 License
