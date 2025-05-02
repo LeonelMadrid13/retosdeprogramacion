@@ -8,7 +8,9 @@
     "challenges": "deno run -A create_challenges.ts",
     "readme": "deno run --allow-read --allow-write generate_readme.ts",
     "list": "pnpm run reto --list",
-    "clear": "pnpm run reto --clean"
+    "clear": "pnpm run reto --clean",
+    "format": "deno fmt",
+    "lint": "deno lint"
   },
   "devDependencies": {
     "jest": "^29.0.0",
