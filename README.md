@@ -17,7 +17,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 05 | Challenge #5: ÁREA DE UN POLÍGONO | 🟢 | ✅ | [Show](./retos/reto-05) |
 | 06 | Challenge #6: ASPECT RATIO DE UNA IMAGEN | 🔴 | ✅ | [Show](./retos/reto-06) |
 | 07 | Challenge #7: INVIRTIENDO CADENAS | 🟢 | ✅ | [Show](./retos/reto-07) |
-| 08 | Challenge #8: CONTANDO PALABRAS | 🟠 |  | [Show](./retos/reto-08) |
+| 08 | Challenge #8: CONTANDO PALABRAS | 🟠 | ✅ | [Show](./retos/reto-08) |
 | 09 | Challenge #9: DECIMAL A BINARIO | 🟢 |  | [Show](./retos/reto-09) |
 | 10 | Challenge #10: CÓDIGO MORSE | 🟠 |  | [Show](./retos/reto-10) |
 | 11 | Challenge #11: EXPRESIONES EQUILIBRADAS | 🟠 |  | [Show](./retos/reto-11) |
@@ -47,7 +47,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 35 | Challenge #35: LOS NÚMEROS PERDIDOS | 🟠 |  | [Show](./retos/reto-35) |
 | 36 | Challenge #36: BATALLA POKÉMON | 🟠 |  | [Show](./retos/reto-36) |
 | 37 | Challenge #37: LOS ANILLOS DE PODER | 🟠 |  | [Show](./retos/reto-37) |
-| 38 | Challenge #38: LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA" | 🟠 |  | [Show](./retos/reto-38) |
+| 38 | Challenge #38: LOS LANZAMIENTOS DE 'THE LEGEND OF ZELDA' | 🟠 |  | [Show](./retos/reto-38) |
 | 39 | Challenge #39: BINARIO A DECIMAL | 🟠 |  | [Show](./retos/reto-39) |
 | 40 | Challenge #40: TOP ALGORITMOS -> QUICK SORT | 🟠 |  | [Show](./retos/reto-40) |
 | 41 | Challenge #41: TRIÁNGULO DE PASCAL | 🟠 |  | [Show](./retos/reto-41) |
@@ -62,8 +62,8 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 50 | Challenge #50: EL DETECTOR DE HANDLES | 🟢 |  | [Show](./retos/reto-50) |
 | 51 | Challenge #51: LA ENCRIPTACIÓN DE KARACA | 🟢 |  | [Show](./retos/reto-51) |
 | 52 | Challenge #52: EL RETO RANDOM | 🟢 |  | [Show](./retos/reto-52) |
-| 53 | Challenge #53: EL FAMOSO "FIZZ BUZZ" (v2) | 🟢 |  | [Show](./retos/reto-53) |
-| 54 | Challenge #54: EL "LENGUAJE HACKER" | 🟢 |  | [Show](./retos/reto-54) |
+| 53 | Challenge #53: EL FAMOSO 'FIZZ BUZZ' (v2) | 🟢 |  | [Show](./retos/reto-53) |
+| 54 | Challenge #54: EL 'LENGUAJE HACKER' | 🟢 |  | [Show](./retos/reto-54) |
 | 55 | Challenge #55: EL PARTIDO DE TENIS | 🟠 |  | [Show](./retos/reto-55) |
 | 56 | Challenge #56: EL GENERADOR DE CONTRASEÑAS | 🟠 |  | [Show](./retos/reto-56) |
 | 57 | Challenge #57: PRIMO, FIBONACCI Y PAR | 🟠 |  | [Show](./retos/reto-57) |
@@ -114,7 +114,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 
 
 
-**Completados:** 7/101 retos
+**Completados:** 8/101 retos
 
 ## 📄 License
 
