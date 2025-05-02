@@ -18,7 +18,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 06 | Challenge #6: ASPECT RATIO DE UNA IMAGEN | 🔴 | ✅ | [Show](./retos/reto-06) |
 | 07 | Challenge #7: INVIRTIENDO CADENAS | 🟢 | ✅ | [Show](./retos/reto-07) |
 | 08 | Challenge #8: CONTANDO PALABRAS | 🟠 | ✅ | [Show](./retos/reto-08) |
-| 09 | Challenge #9: DECIMAL A BINARIO | 🟢 |  | [Show](./retos/reto-09) |
+| 09 | Challenge #9: DECIMAL A BINARIO | 🟢 | ✅ | [Show](./retos/reto-09) |
 | 10 | Challenge #10: CÓDIGO MORSE | 🟠 |  | [Show](./retos/reto-10) |
 | 11 | Challenge #11: EXPRESIONES EQUILIBRADAS | 🟠 |  | [Show](./retos/reto-11) |
 | 12 | Challenge #12: ELIMINANDO CARACTERES | 🟢 |  | [Show](./retos/reto-12) |
@@ -114,7 +114,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 
 
 
-**Completados:** 8/101 retos
+**Completados:** 9/101 retos
 
 ## 📄 License
 

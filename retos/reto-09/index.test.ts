@@ -4,6 +4,8 @@ import { solve } from "./index.ts";
 
 describe("Reto 09: DECIMAL A BINARIO", () => {
   it(" ", () => {;
-    expect(solve()).toBe(0);
+    expect(solve(10)).toBe("1010");
+    expect(solve(0)).toBe("0");
+    expect(solve(255)).toBe("11111111");
   });
 });
