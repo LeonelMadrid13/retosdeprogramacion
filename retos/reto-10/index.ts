@@ -1,9 +1,7 @@
 // MEDIUM
 // Reto 10: CÓDIGO MORSE
 
-export function solve(morse:string ): string {
-  // TODO: implementar
-  const isMorse = (morse[0] === '.' || morse[0] === '-');
+function morseDecoderEncoder(morse: string, isMorse:boolean): string {
   const morseAlphabet: Record<string, string> = {
     "A": ".-",
     "B": "-...",
@@ -32,38 +30,32 @@ export function solve(morse:string ): string {
     "Y": "-.--",
     "Z": "--.."
   }
-  if (isMorse) {
-    const words: string[] = morse.split('  ');
-    const letters: string[][] = words.map((word) => word.split(' '));
-    const decoded = letters.map((letter) => {
-      return letter.map((char) => {
-        const decodedChar = Object.entries(morseAlphabet).find(([_, value]) => {
-          return value === char;
-        });
-        if (decodedChar) {
-          return decodedChar[0];
-        }
-        return '';
-      })
-    });
-    return decoded.map((letter) => letter.join('')).join(' ');
-  }
-  // Si no es morse, entonces es texto natural
   morse = morse.toUpperCase();
-  const words: string[] = morse.split(' ');
-  const letters: string[][] = words.map((word) => word.split(''));
-  const encoded = letters.map((letter) => {
+  const words: string[] = !isMorse ? morse.split(' '): morse.split('  ');
+  const letters: string[][] = words.map((word) => {
+    return !isMorse ? word.split('') : word.split(' ');
+  });
+  const code = letters.map((letter) => {
     return letter.map((char) => {
       const decodedChar = Object.entries(morseAlphabet).find(([Key, _]) => {
+        if (isMorse) {
+          return _ === char;
+        }
         return Key === char;
       });
       if (decodedChar) {
-        return decodedChar[1];
+        return isMorse ? decodedChar[0] : decodedChar[1];
       }
       return '';
     })
   });
-  return encoded.map((letter) => letter.join(' ')).join('  ');
+  return !isMorse ? code.map((letter) => letter.join(' ')).join('  ') : code.map((letter) => letter.join('')).join(' ');
+}
+
+export function solve(morse:string ): string {
+  // TODO: implementar
+  const isMorse = (morse[0] === '.' || morse[0] === '-');
+  return morseDecoderEncoder(morse, isMorse);
 }
 
 if (import.meta.main) {
