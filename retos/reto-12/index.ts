@@ -1,13 +1,16 @@
 // EASY
 // Reto 12: ELIMINANDO CARACTERES
 
-export function solve(): number {
+export function solve(str1:string, str2:string): Record<string, string[]> {
   // TODO: implementar
-  return 0;
+  const out1 = str1.split('').filter((char) => !str2.includes(char));
+  const out2 = str2.split('').filter((char) => !str1.includes(char));
+  return {out1, out2};
 }
 
 if (import.meta.main) {
-  solve();
+  console.log(solve('Hello', 'World'));
+
 }
 
 /*
