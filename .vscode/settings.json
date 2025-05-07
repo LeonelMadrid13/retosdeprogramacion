@@ -1,4 +1,9 @@
 {
-    "editor.formatOnSave": true,
-    "deno.enable": true
+  "editor.formatOnSave": true,
+  "deno.enable": true,
+  "files.autoReveal": true,
+  "workbench.startupEditor": "none",
+  "auto-open-markdown-preview.previewPath": "README.md",
+  "auto-open-markdown-preview.sideBySide": false,
+  "task.allowAutomaticTasks": "on"
 }
