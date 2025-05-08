@@ -3,7 +3,9 @@ import { expect } from "jsr:@std/expect";
 import { solve } from "./index.ts";
 
 describe("Reto 14: FACTORIAL RECURSIVO", () => {
-  it(" ", () => {;
-    expect(solve()).toBe(0);
+  it("Recursive Factorial", () => {;
+    expect(solve(3)).toBe(6);
+    expect(solve(5)).toBe(120);
+    expect(solve(10)).toBe(3628800);
   });
 });

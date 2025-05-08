@@ -23,7 +23,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 11 | Challenge #11: EXPRESIONES EQUILIBRADAS | 🟠 | ✅ | [Show](./retos/reto-11) |
 | 12 | Challenge #12: ELIMINANDO CARACTERES | 🟢 | ✅ | [Show](./retos/reto-12) |
 | 13 | Challenge #13: ¿ES UN PALÍNDROMO? | 🟠 | ✅ | [Show](./retos/reto-13) |
-| 14 | Challenge #14: FACTORIAL RECURSIVO | 🟢 |  | [Show](./retos/reto-14) |
+| 14 | Challenge #14: FACTORIAL RECURSIVO | 🟢 | ✅ | [Show](./retos/reto-14) |
 | 15 | Challenge #15: ¿ES UN NÚMERO DE ARMSTRONG? | 🟢 |  | [Show](./retos/reto-15) |
 | 16 | Challenge #16: ¿CUÁNTOS DÍAS? | 🔴 |  | [Show](./retos/reto-16) |
 | 17 | Challenge #17: EN MAYÚSCULA | 🟢 |  | [Show](./retos/reto-17) |
@@ -112,7 +112,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 100 | Challenge #100: LA PALABRA DE 100 PUNTOS | 🟢 |  | [Show](./retos/reto-100) |
 | 101 | Challenge #101: EL RANKING | 🔴 |  | [Show](./retos/reto-101) |
 
-**Completados:** 13/101 retos
+**Completados:** 14/101 retos
 
 ## 📄 License
 
