@@ -10,7 +10,6 @@ export function solve(num:number): boolean {
     const digit = num % 10;
     sum += Math.pow(digit, Power);
     num = Math.floor(num / 10);
-    console.log({ digit, sum, num });
   }
   return sum === originalNum;
 }
