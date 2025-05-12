@@ -1,13 +1,27 @@
 // HARD
 // Reto 16: ¿CUÁNTOS DÍAS?
 
-export function solve(): number {
+/**
+ * 
+ * @param date1 string -> format dd/MM/yyyy
+ * @param date2 string -> format dd/MM/yyyy
+ * @returns number -> absolute number of days between date1 and date2
+ */
+
+export function solve(date1:string, date2:string): number {
   // TODO: implementar
-  return 0;
+  const Date1 = new Date(date1.split("/").reverse().join("/"));
+  const Date2 = new Date(date2.split("/").reverse().join("/"));
+  if (isNaN(Date1.getTime()) || isNaN(Date2.getTime())) {
+    throw new Error("Invalid date format");
+  }
+  const timeDiff = Math.abs(Date2.getTime() - Date1.getTime());
+  const dayDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
+  return dayDiff;
 }
 
 if (import.meta.main) {
-  solve();
+  console.log(solve("01/01/2020", "01/02/2020")); // 31
 }
 
 /*

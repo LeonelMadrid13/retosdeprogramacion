@@ -25,7 +25,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 13 | Challenge #13: ¿ES UN PALÍNDROMO? | 🟠 | ✅ | [Show](./retos/reto-13) |
 | 14 | Challenge #14: FACTORIAL RECURSIVO | 🟢 | ✅ | [Show](./retos/reto-14) |
 | 15 | Challenge #15: ¿ES UN NÚMERO DE ARMSTRONG? | 🟢 | ✅ | [Show](./retos/reto-15) |
-| 16 | Challenge #16: ¿CUÁNTOS DÍAS? | 🔴 |  | [Show](./retos/reto-16) |
+| 16 | Challenge #16: ¿CUÁNTOS DÍAS? | 🔴 | ✅ | [Show](./retos/reto-16) |
 | 17 | Challenge #17: EN MAYÚSCULA | 🟢 |  | [Show](./retos/reto-17) |
 | 18 | Challenge #18: LA CARRERA DE OBSTÁCULOS | 🟠 |  | [Show](./retos/reto-18) |
 | 19 | Challenge #19: TRES EN RAYA | 🔴 |  | [Show](./retos/reto-19) |
@@ -112,7 +112,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 100 | Challenge #100: LA PALABRA DE 100 PUNTOS | 🟢 |  | [Show](./retos/reto-100) |
 | 101 | Challenge #101: EL RANKING | 🔴 |  | [Show](./retos/reto-101) |
 
-**Completados:** 15/101 retos
+**Completados:** 16/101 retos
 
 ## 📄 License
 
