@@ -1,13 +1,19 @@
 // EASY
 // Reto 17: EN MAYÚSCULA
 
-export function solve(): number {
+export function solve(str: string): string {
   // TODO: implementar
-  return 0;
+  const words = str.split(" ");
+  const capitalizedWords = words.map((word) => {
+    const firstLetter = word.charAt(0).toUpperCase();
+    const restOfWord = word.slice(1);
+    return firstLetter + restOfWord;
+  });
+  return capitalizedWords.join(" ");
 }
 
 if (import.meta.main) {
-  solve();
+  solve("hello world");
 }
 
 /*
