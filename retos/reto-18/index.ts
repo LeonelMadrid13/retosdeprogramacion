@@ -1,13 +1,41 @@
 // MEDIUM
 // Reto 18: LA CARRERA DE OBSTÁCULOS
 
-export function solve(): number {
+type instruccionsType = "run" | "jump";
+
+export function solve(instruccions: instruccionsType[], track: string): boolean {
   // TODO: implementar
-  return 0;
+  if (instruccions.length !== track.length) {
+    console.log("El número de instrucciones no coincide con la longitud de la pista");
+    return false;
+  }
+  const result = track.split("");
+  for (let i = 0; i < instruccions.length; i++) {
+    if (instruccions[i] === "run" && track[i] === "_") {
+      result[i] = "_";
+    } else if (instruccions[i] === "jump" && track[i] === "|") {
+      result[i] = "|";
+    } else if (instruccions[i] === "jump" && track[i] === "_") {
+      result[i] = "x";
+    } else if (instruccions[i] === "run" && track[i] === "|") {
+      result[i] = "/";
+    } else {
+      console.log("Instrucción no válida");
+      return false;
+    }
+  }
+  console.log("Resultado de la pista: ", result.join(""));
+  if (result.includes("x") || result.includes("/")) {
+    console.log("El atleta no ha superado la carrera");
+    return false;
+  }
+  console.log("El atleta ha superado la carrera");
+  return true;
 }
 
 if (import.meta.main) {
-  solve();
+  solve(["run", "jump", "run", "jump", "run", "jump", "run"], "_|_|_|_");
+  solve(["run", "jump", "run", "jump", "run", "jump", "run", "jump", "run", "jump", "run"], "_|_|_|_|_|_");
 }
 
 /*

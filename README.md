@@ -27,7 +27,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 15 | Challenge #15: ¿ES UN NÚMERO DE ARMSTRONG? | 🟢 | ✅ | [Show](./retos/reto-15) |
 | 16 | Challenge #16: ¿CUÁNTOS DÍAS? | 🔴 | ✅ | [Show](./retos/reto-16) |
 | 17 | Challenge #17: EN MAYÚSCULA | 🟢 | ✅ | [Show](./retos/reto-17) |
-| 18 | Challenge #18: LA CARRERA DE OBSTÁCULOS | 🟠 |  | [Show](./retos/reto-18) |
+| 18 | Challenge #18: LA CARRERA DE OBSTÁCULOS | 🟠 | ✅ | [Show](./retos/reto-18) |
 | 19 | Challenge #19: TRES EN RAYA | 🔴 |  | [Show](./retos/reto-19) |
 | 20 | Challenge #20: CONVERSOR TIEMPO | 🟢 |  | [Show](./retos/reto-20) |
 | 21 | Challenge #21: PARANDO EL TIEMPO | 🟠 |  | [Show](./retos/reto-21) |
@@ -112,7 +112,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 100 | Challenge #100: LA PALABRA DE 100 PUNTOS | 🟢 |  | [Show](./retos/reto-100) |
 | 101 | Challenge #101: EL RANKING | 🔴 |  | [Show](./retos/reto-101) |
 
-**Completados:** 17/101 retos
+**Completados:** 18/101 retos
 
 ## 📄 License
 
