@@ -28,7 +28,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 16 | Challenge #16: ¿CUÁNTOS DÍAS? | 🔴 | ✅ | [Show](./retos/reto-16) |
 | 17 | Challenge #17: EN MAYÚSCULA | 🟢 | ✅ | [Show](./retos/reto-17) |
 | 18 | Challenge #18: LA CARRERA DE OBSTÁCULOS | 🟠 | ✅ | [Show](./retos/reto-18) |
-| 19 | Challenge #19: TRES EN RAYA | 🔴 |  | [Show](./retos/reto-19) |
+| 19 | Challenge #19: TRES EN RAYA | 🔴 | ✅ | [Show](./retos/reto-19) |
 | 20 | Challenge #20: CONVERSOR TIEMPO | 🟢 |  | [Show](./retos/reto-20) |
 | 21 | Challenge #21: PARANDO EL TIEMPO | 🟠 |  | [Show](./retos/reto-21) |
 | 22 | Challenge #22: CALCULADORA .TXT | 🟠 |  | [Show](./retos/reto-22) |
@@ -112,7 +112,7 @@ Este repositorio contiene soluciones a retos de código categorizados por dificu
 | 100 | Challenge #100: LA PALABRA DE 100 PUNTOS | 🟢 |  | [Show](./retos/reto-100) |
 | 101 | Challenge #101: EL RANKING | 🔴 |  | [Show](./retos/reto-101) |
 
-**Completados:** 18/101 retos
+**Completados:** 19/101 retos
 
 ## 📄 License
 
